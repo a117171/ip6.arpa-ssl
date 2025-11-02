@@ -1,4 +1,4 @@
-name = "ip6.arpa-ssl"
+name = "ip6-arpa"
 main = "_worker.js"
 compatibility_date = "2025-11-01"
 keep_vars = true
